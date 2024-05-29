@@ -1,0 +1,6 @@
+Current ATM money is 800000
+CustomerId: Quy, balance: 900000
+Current ATM money is 600000
+Insufficient Balance
+Current ATM money is 600000
+Current ATM money is 1600000

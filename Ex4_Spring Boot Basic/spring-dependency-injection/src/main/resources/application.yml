@@ -1,0 +1,8 @@
+#application.yml
+---
+spring.profiles: log
+spring.profiles.include: common, log
+---
+spring.profiles: console
+spring.profiles.include: common, console
+---

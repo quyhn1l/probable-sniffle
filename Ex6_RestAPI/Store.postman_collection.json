@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "cdfd3a35-6647-4af9-84f7-9bdc3ab75597",
+		"name": "Store",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33516842"
+	},
+	"item": [
+		{
+			"name": "Access to Petstore orders",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Find purchase order by Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Delete purchase order by Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
